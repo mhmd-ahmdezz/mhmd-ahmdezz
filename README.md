@@ -7,9 +7,6 @@ I am a senior-1 ECE student at Assiut University. I am passionate about the **Di
 - 🛠️ **Current Focus:** Completing my Pipelined MIPS Processor and exploring ASIC verification.
 - 🎓 **Education:** Pursuing B.Sc. in ECE, Assiut University.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-702b95297)
-
----
-
 ### 🛠️ Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Verilog-%23212121.svg?style=for-the-badge&logo=verilog&logoColor=white" />
@@ -18,9 +15,3 @@ I am a senior-1 ECE student at Assiut University. I am passionate about the **Di
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmd-ahmdezz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd-ahmdezz&layout=compact&theme=radical)
