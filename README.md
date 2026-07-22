@@ -4,7 +4,7 @@
 I am a 4th-year ECE student at Assiut University. I am passionate about <b>Digital IC Design and Verification</b>, with a strong interest <b>in</b> building efficient hardware accelerators for AI and DSP applications.
 </p>
 
--   **Current Focus:**  Completing my Pipelined MIPS Processor and exploring ASIC verification.
+-   **Current Focus:**  Exploring ASIC verification.
 
 -  **Education:** Pursuing B.Sc. in ECE, Assiut University.
 -  **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-702b95297)
