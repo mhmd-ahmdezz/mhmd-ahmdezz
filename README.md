@@ -1,7 +1,7 @@
 # Hi there, 👋
 #### ECE Student | Digital IC Design & Verification | AI Hardware Enthusiast
 <p>
-I am a 3rd-year ECE student at Assiut University. I am passionate about <b>Digital IC Design and Verification</b>, with a strong interest <b>in</b> building efficient hardware accelerators for AI and DSP applications.
+I am a 4th-year ECE student at Assiut University. I am passionate about <b>Digital IC Design and Verification</b>, with a strong interest <b>in</b> building efficient hardware accelerators for AI and DSP applications.
 </p>
 
 -   **Current Focus:**  Completing my Pipelined MIPS Processor and exploring ASIC verification.
